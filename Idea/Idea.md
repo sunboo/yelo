@@ -33,9 +33,11 @@ So essentially the result is that 1.4 Billion people are using IMs but businesse
 
 **Trend #2**
 
-For much of the past century, the Era of Big Work — the 40-hour workweek and its employer-provided benefits — were the foundation of US and Western economies. That was then. Now, independent work is the new normal.
+For much of the past century, the 40-hour workweek and its employer-provided benefits were the foundation of most economies. That was then. Now, independent work is the new normal.
 
-Freelancers, independent contractors and temp workers are on their way to making up the majority of the U.S. labor force. They number 42 million, or one-third of all workers in the nation. That figure is expected to rise to 40% — some 60 million people — by the end of the decade. A number of factors both economic and cultural are causing the independent workforce to swell. An Elance-oDesk survey found an overwhelming 89% of freelancers prefer work flexibility to a traditional corporate career. 
+Freelancers, independent contractors and temp workers are on their way to making up the **majority** of the U.S. labor force. They number 42 million, or one-third of all workers, expected to rise to 40% in next 5 years. A number of factors both economic and cultural are causing the independent workforce to swell. An Elance-oDesk survey found an overwhelming 89% of freelancers prefer work flexibility to a traditional corporate career. 
+
+The latest batch of Y-Combinator also emphasized long-term shifts in the workforce will **change the way** we think about the labor market. Y Combinator-backed startups like Zen99, Fixed, and Checkr, while appearing simple at first glance, will make that transition smoother.
 
 **Trend #3**
 
@@ -59,4 +61,6 @@ Ref:
 
 4) http://www.latimes.com/opinion/op-ed/la-oe-horowitz-work-freelancers-20140826-story.html
 
-5)
+5) http://techcrunch.com/2014/08/19/new-at-y-combinator-startups-solving-huge-problems/
+
+6) http://techcrunch.com/2014/08/19/sam-altman-on-his-inaugural-batch-of-companies-as-y-combinators-new-head/
