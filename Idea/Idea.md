@@ -1,7 +1,7 @@
 Idea 
 ====
 
-An idea on its own is just that - an idea. I believe that the idea acts as a multiplier of sorts and the better the execution the more awesome the value which is created.
+An idea on its own is just that - an idea. I believe that the idea acts as a multiplier of sorts and the better the execution the more awesome the value which is created. For an awesome execution any startup team needs to be able to create an environment where massive amount of really good tech talent is attracted towards it for a sustainable competitive advantage.
 
 **Idea as Multiplier**
 
@@ -21,6 +21,7 @@ Good = $100k,
 Great = $1M,
 Brilliant = $10M
 
+
 The emergence of 3 Macro Trends
 ===============================
 
@@ -36,8 +37,6 @@ For much of the past century, the Era of Big Work — the 40-hour workweek and i
 
 Freelancers, independent contractors and temp workers are on their way to making up the majority of the U.S. labor force. They number 42 million, or one-third of all workers in the nation. That figure is expected to rise to 40% — some 60 million people — by the end of the decade. A number of factors both economic and cultural are causing the independent workforce to swell. An Elance-oDesk survey found an overwhelming 89% of freelancers prefer work flexibility to a traditional corporate career. 
 
-
-
 **Trend #3**
 
 Google optimized its battery usage with 'GPS On' really well with its Android version 4.0+ around the same time as Apple's similar optimizations. As result from last 12-18 months, location can be kept 'always-on' on mobile phones and that has made 'local marketplace' a real opportunity **only now**. This means everyone is at the beginning of the race - the internet biggies and startups alike. 
@@ -45,20 +44,10 @@ Google optimized its battery usage with 'GPS On' really well with its Android ve
 Tindr, Uber & now Thumbtack have created a massive wave which made **Local Marketplace** really hot. After recent Uber's $1.2B and Thumbtack's $100M funding VC's seem to understand that something big is happening.
 
 
-
 Horizontal vs. Vertical
 =======================
 
-
-In five years that you’re going to have an app for house cleaners, an app for electricians, an app for tutors, and on and on. 
-
-No. You’re going to have one app to stay in touch with the professionals that you know and love.
-
-
-
-
-
-
+In five years that you’re going to have an app for house cleaners, an app for electricians, an app for tutors, and on and on. **No.** You’re going to have one app to stay in touch with the professionals that you know and love. Breadth is the ultimate value proposition. And a peer-to-peer is the holy grail of platform/marketplaces. 
 
 Ref:
 
