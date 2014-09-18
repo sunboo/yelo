@@ -40,7 +40,9 @@ Freelancers, independent contractors and temp workers are on their way to making
 
 **Trend #3**
 
-Google optimized its battery usage with 'GPS On' really well with its Android version 4.0+ around the same time as Apple's similar optimizations. As result from last 12-18 months location can be kept always on on mobile phones and that has made local marketplace a real opportunity **only now**. Tindr, Uber & now Thumbtack have made **Local Marketplace** really hot. After recent Uber's $1.2B and Thumbtack's $100M funding VC's seem to understand that something big is happening.
+Google optimized its battery usage with 'GPS On' really well with its Android version 4.0+ around the same time as Apple's similar optimizations. As result from last 12-18 months, location can be kept 'always-on' on mobile phones and that has made 'local marketplace' a real opportunity **only now**. This means everyone is at the beginning of the race - the internet biggies and startups alike. 
+
+Tindr, Uber & now Thumbtack have created a massive wave which made **Local Marketplace** really hot. After recent Uber's $1.2B and Thumbtack's $100M funding VC's seem to understand that something big is happening.
 
 
 
