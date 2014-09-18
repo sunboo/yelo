@@ -61,8 +61,8 @@ Horizontal vs. Vertical
 
 In five years that you’re going to have an app for house cleaners, an app for electricians, an app for tutors, and on and on. **No.** You’re going to have one app to stay in touch with the professionals that you know and love. Breadth is the ultimate value proposition and a peer-to-peer is the holy grail of platform/marketplaces. Someone needs to rise to the challenge and face it head-on rather than focusing on vertical niches.
 
-Millions of Businesses on Internet
-==================================
+Millions of businesses on the Internet
+======================================
 
 Its my favourite example. My mother never had an email, nor did she have a facebook account but she is a WhatsApp pro. She uses it like a champion and since the day I bought her a smartphone I have seen marked change in her anxiety levels as she enjoys the real time connect which WhatsApp provides her with her children including me. Similar to her there are billions of people who are going to come online not on a facebook or email client but a WhatsApp[6]. And among these billions are going to be 100s of millions who will have businesses and their business will never come online on a Google+ page, website or a facebook page. The future belongs to mobile and usability for masses.
 
