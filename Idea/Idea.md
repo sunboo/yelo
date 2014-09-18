@@ -3,19 +3,23 @@ Idea
 
 An idea on its own is just that an idea. I agree that idea acts as a multiplier of sorts and the better the execution the more awesome the value which is created.
 
-Awful Idea = -1
-Weak Idea = 1
-So-so Idea = 5
-Good Idea = 10
-Great Idea = 15
-Brilliant Idea = 20
- 
-No Execution = $0
-Weak Execution = $1,000
-So-so Execution = $10,000
-Good Execution = $100,000
-Great Execution = $1,000,000
-Brilliant Execution = $10,000,000
+**Idea**
+
+Awful = -1
+Weak = 1
+So-so = 5
+Good = 10
+Great = 15
+Brilliant = 20
+
+**Execution**
+
+No = $0
+Weak = $1,000
+So-so = $10,000
+Good = $100,000
+Great = $1,000,000
+Brilliant = $10,000,000
 
 
 
