@@ -5,21 +5,21 @@ An idea on its own is just that an idea. I agree that idea acts as a multiplier 
 
 **Idea**
 
-Awful = -1
-Weak = 1
-So-so = 5
-Good = 10
-Great = 15
-Brilliant = 20
+Awful = -1,
+Weak = 1,
+So-so = 5,
+Good = 10,
+Great = 15,
+Brilliant = 20,
 
 **Execution**
 
-No = $0
-Weak = $1,000
-So-so = $10,000
-Good = $100,000
-Great = $1,000,000
-Brilliant = $10,000,000
+No = $0,
+Weak = $1k,
+So-so = $10k,
+Good = $100k,
+Great = $1M,
+Brilliant = $10M
 
 
 
