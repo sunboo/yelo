@@ -32,6 +32,9 @@ So essentially the result is that 1.4 Billion people are using IMs but businesse
 
 **Trend #2**
 
+For much of the past century, the Era of Big Work — the 40-hour workweek and its employer-provided benefits — were the foundation of US and Western economies. That was then. Now, independent work is the new normal.
+
+Freelancers, independent contractors and temp workers are on their way to making up the majority of the U.S. labor force. They number 42 million, or one-third of all workers in the nation. That figure is expected to rise to 40% — some 60 million people — by the end of the decade. A number of factors both economic and cultural are causing the independent workforce to swell. An Elance-oDesk survey found an overwhelming 89% of freelancers prefer work flexibility to a traditional corporate career. 
 
 
 
@@ -58,6 +61,11 @@ No. You’re going to have one app to stay in touch with the professionals that 
 Ref:
 
 1) http://techcrunch.com/2014/08/20/12-questions-with-the-ceo-of-thumbtack-google-capitals-new-100-million-bet/
+
 2) http://thenextweb.com/facebook/2014/08/25/whatsapp-reaches-600-million-active-users/
+
 3) http://online.wsj.com/articles/uber-gets-uber-valuation-of-18-2-billion-1402073876
+
 4) http://www.latimes.com/opinion/op-ed/la-oe-horowitz-work-freelancers-20140826-story.html
+
+5)
