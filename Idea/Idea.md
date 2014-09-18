@@ -1,9 +1,10 @@
 Idea 
 ====
 
-An idea on its own is just that an idea. I agree that idea acts as a multiplier of sorts and the better the execution the more awesome the value which is created.
+An idea on its own is just that - an idea. 
+I believe that the idea acts as a multiplier of sorts and the better the execution the more awesome the value which is created.
 
-**Idea**
+**Idea as Multiplier**
 
 Awful = -1,
 Weak = 1,
@@ -12,7 +13,7 @@ Good = 10,
 Great = 15,
 Brilliant = 20,
 
-**Execution**
+**Execution as Value Creation**
 
 No = $0,
 Weak = $1k,
@@ -21,7 +22,8 @@ Good = $100k,
 Great = $1M,
 Brilliant = $10M
 
-
+Horizontal vs. Vertical
+=======================
 
 
 In five years that you’re going to have an app for house cleaners, an app for electricians, an app for tutors, and on and on. 
