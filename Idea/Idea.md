@@ -1,7 +1,7 @@
 www.yelo.red
 ============
 
-yelo is a mobile only, android first product. We are currently based in Bangalore. The 2 founders are Prasun (IIT Delhi, startup-exit with cash acquisition) & Khushboo (IIT Bombay, HBS, currently-Inmobi). The team has a phenomenal RoR developer, awesome Android+UI developer, great UX designer and top notch iOS developer (to join soon) besides having a great Android mentor.
+yelo is a mobile only, android first peer-to-peer marketplace. We are currently based in Bangalore. The 2 founders are Prasun (IIT Delhi, startup-exit with cash acquisition) & Khushboo (IIT Bombay, HBS, currently-Inmobi). The team has a phenomenal RoR developer, awesome Android+UI developer, great UX designer and top notch iOS developer (to join soon) besides having a great Android mentor.
 
 Below is our genuine attempt to make a pitch to our future tech-cofounder who will be joining us even before the beta is launched and will be a significant factor in the success or failure of our venture.
 
