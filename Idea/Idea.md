@@ -5,7 +5,7 @@ yelo (https://www.facebook.com/yelo.red) is a mobile only, android first peer-to
 
 Below is our genuine attempt to make a pitch to our future tech-cofounder who will be joining us even before the beta is launched and will be a significant factor in the success or failure of our venture.
 
-Our key expectations from him is that he leads development team(100%), product(50%) and enable at a massive scale - superior tech talent's recruitment, growth and retention. If you join us soon enough then we can apply together to Y Combinator (Deadline 14th Oct'14 for stay in SF during Jan-Mar). Else we would launch in Bangalore and hopefully gather traction and next round of funding. Opensource is a big draw for us. We even founded and support an opensource non-profit peer to peer network for book viz. barter.li (https://github.com/barterli)
+Our key expectations from him is that he leads development team(100%), product(50%) and enable at a massive scale - superior tech talent's recruitment, growth and retention. If you join us soon enough then we can apply together to Y Combinator (Deadline 14th Oct'14 for stay in SF during Jan-Mar). Else we would launch in Bangalore and hopefully gather traction and next round of funding. Opensource is a big draw for us. We even founded and support an opensource non-profit peer-to-peer network for physical(real) books viz. barter.li (https://github.com/barterli)
 
 
 Idea 
