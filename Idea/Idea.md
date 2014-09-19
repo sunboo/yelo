@@ -66,6 +66,8 @@ Millions of businesses on the Internet
 
 Its my favourite example. My mother never had an email, nor did she have a facebook account but she is a WhatsApp pro. She uses it like a champion and since the day I bought her a smartphone I have seen marked change in her anxiety levels as she enjoys the real time connect which WhatsApp provides her with her children including me. Similar to her there are billions of people who are going to come online not on a facebook or email client but a WhatsApp[6]. And among these billions are going to be 100s of millions who will have businesses and their business will never come online on a Google+ page, website or a facebook page. The future belongs to mobile and usability for masses.
 
+If you are interested in joining us and making this dream a reality then write to us right away.
+
 Cheers,
 Prasun Jain
 startupnow@yelo.red
