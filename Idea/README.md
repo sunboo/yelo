@@ -3,9 +3,11 @@ www.yelo.red
 
 what is yelo? yelo is Delhi's hustle and Bangalore's focus. 
 
-yelo (https://www.facebook.com/yelo.red) is a mobile only, android first peer-to-peer marketplace. We are currently based in Bangalore, India. The 2 founders are Prasun (IIT Delhi, P&G, startup-exit with cash acquisition) & Khushboo (IIT Bombay, HBS MBA'12, Nike, Booz, currently-Inmobi). The team has a phenomenal RoR developer, awesome Android+UI developer, great UX designer and top notch iOS developer (to join soon) besides having a great Android mentor.
+yelo is a mobile only, android first peer-to-peer marketplace. We are currently based in Bangalore, India. The 2 founders are Prasun (IIT Delhi, P&G, startup-exit with cash acquisition) & Khushboo (IIT Bombay, HBS MBA'12, Nike, Booz, currently-Inmobi). The team has a phenomenal RoR developer, awesome Android+UI developer, great UX designer and top notch iOS developer (to join soon) besides having a great Android mentor.
 
 Opensource is a big draw for us. We even founded and support an opensource non-profit peer-to-peer network for physical(real) books viz. barter.li (https://github.com/barterli)
+
+Links: (https://angel.co/yelo-2; https://www.facebook.com/yelo.red; https://www.linkedin.com/company/yelo-)
 
 
 Idea 
