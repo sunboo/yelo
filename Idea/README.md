@@ -72,7 +72,12 @@ This piece was written as a pre-read for our potential CTO candidates. If you ar
 
 Cheers,
 Prasun Jain
-startupnow@yelo.red
+
+Email: startupnow@yelo.red
+
+Contact: WhatsApp me with your github profile on +91-9900431166
+
+Skype: prasun.jain1
 
 
 Ref:
