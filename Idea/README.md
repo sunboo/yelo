@@ -71,6 +71,7 @@ Its my favourite example. My mother never had an email, nor did she have a faceb
 This piece was written as a pre-read for our potential CTO candidates. If you are interested in joining us and making this dream a reality then write to us right away.
 
 FAQ:
+====
 
 Q. What stage is yelo at?
 A. We are currently between alpha and beta
