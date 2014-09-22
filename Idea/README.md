@@ -75,7 +75,7 @@ Prasun Jain
 
 Email: startupnow@yelo.red
 
-Contact: WhatsApp me with your github profile on +91-9900431166
+Contact: WhatsApp me with your github profile only (no CV required) on +91-9900431166
 
 Skype: prasun.jain1
 
