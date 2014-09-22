@@ -70,6 +70,21 @@ Its my favourite example. My mother never had an email, nor did she have a faceb
 
 This piece was written as a pre-read for our potential CTO candidates. If you are interested in joining us and making this dream a reality then write to us right away.
 
+FAQ:
+
+Q. What stage is yelo at?
+A. We are currently between alpha and beta
+
+Q. What is the role that you are looking for?
+A. We are looking for someone who can own tech (100%), lead tech team, attract tech talent & enthuse open source ethos.
+   Also if you can lead product (50%), data analytics, gamification, recommendation, search, NLP/ML and monetization.
+   
+Q. Where are you based at?
+A. Bangalore, India. But we are building a global product.
+
+Q. What will be my compensation?
+A. We are currently boot-strapped but looking talking to 2-3 angels for an angel round. The compensation will be enough    for a spartan life in Bangalore.
+
 Cheers,
 Prasun Jain
 
