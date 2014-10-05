@@ -84,7 +84,7 @@ Q. Where are you based at?
 A. Bangalore, India. But we are building a global product.
 
 Q. What will be my compensation?
-A. We are currently boot-strapped but looking talking to 2-3 angels for an angel round. The compensation will be enough    for a spartan life in Bangalore.
+A. We are currently boot-strapped but talking to 2-3 angels for an angel round. The compensation will be enough for a spartan life in Bangalore.
 
 Cheers,
 Prasun Jain
