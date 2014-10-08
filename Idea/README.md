@@ -3,7 +3,7 @@ www.yelo.red
 
 what is yelo? yelo is Delhi's hustle and Bangalore's focus. 
 
-yelo is a mobile only, android first peer-to-peer marketplace. We are currently based in Bangalore, India. 
+yelo is a mobile only, android first peer-to-peer platform. We are currently based in Bangalore, India. 
 
 Opensource is a big draw for us. We even founded and support an opensource non-profit peer-to-peer network for physical(real) books viz. barter.li (https://github.com/barterli)
 
